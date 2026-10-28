@@ -11,7 +11,7 @@
     <a href="https://www.facebook.com/ndangphuoc" target="_blank">
       <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="_blank">
+    <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-%C4%91%E1%BA%B7ng-ph%C6%B0%E1%BB%9Bc-51b89a3b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
