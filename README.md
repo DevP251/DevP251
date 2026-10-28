@@ -68,13 +68,18 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevP251&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Phuoc's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevP251&layout=compact&theme=cyberpunk&hide_border=true&langs_count=8" alt="Top Languages" height="175" />
-</div>
-
-<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=DevP251&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Phuoc's GitHub Stats" width="495" />
+  
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevP251&theme=cyberpunk&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- GitHub Streak Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevP251&theme=cyberpunk&hide_border=true" alt="GitHub Streak" width="495" />
+  
+  <br /><br />
+
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevP251&layout=compact&theme=cyberpunk&hide_border=true&langs_count=8" alt="Top Languages" width="495" />
 </div>
 
 ---
