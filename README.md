@@ -52,8 +52,8 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevP251&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true&cache_seconds=86400" alt="Phuoc's GitHub Stats" width="495" />
+  <!-- GitHub Stats Card (Dùng server thay thế siêu ổn định) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DevP251&show_icons=true&theme=cyberpunk&hide_border=true&count_private=true" alt="Phuoc's GitHub Stats" width="495" />
   
   <br />
   
@@ -62,8 +62,8 @@
   
   <br /><br />
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevP251&layout=compact&theme=cyberpunk&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" width="495" />
+  <!-- Top Languages Card (Dùng API thay thế chạy cực ngon) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevP251&layout=compact&theme=cyberpunk&hide_border=true&langs_count=8" alt="Top Languages" width="495" />
 </div>
 
 ---
